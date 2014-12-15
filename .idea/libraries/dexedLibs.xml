@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MohaQuiz/bin/dexedLibs/android-support-v4-f2ae316e82044ca1bfe4ea4012ec7875.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MohaQuiz/bin/dexedLibs/android-support-v7-appcompat-e8c5b6c409eadd10f0a5c79682cb1ac1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MohaQuiz/bin/dexedLibs/android-support-v7-appcompat-45928bc10e8fb2672c4f0ac729bd3c9a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
