@@ -27,7 +27,8 @@ public class QuizActivity extends Activity {
 			new TrueFalse(R.string.question_europe, true),
 			new TrueFalse(R.string.question_oceans, true)		
 	};
-	
+
+
 	private int mCurrentIndex = 0;
 	private static final String KEY_INDEX = "index";
 	
